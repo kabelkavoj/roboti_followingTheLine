@@ -1,0 +1,15 @@
+/* ROBOTI - úkol I. (follow the line);
+
+robot sleduje čáru z jedné strany - světelný senzor sleduje rozhraní mezi čárou (černá) a okolím (bílá), lepší je menší zorné pole - tzn. senzor co nejblíže podložce (cca do půl centimetru ve svislém/kolmém směru vůči podložce!) i na úkor omezení schopnosti reagovat (pokud se robot dostane daleko od rozhraní, "není" schopen se vrátit zpět); k plynulé/co nejrovnější jízdě se využívá PID regulátor (viz web);
+
+PID regulártor - http://www.inpharmix.com/jps/PID_Controller_For_Lego_Mindstorms_Robots.html;
+
+nadefinování proměnných:
+
+task main () {
+
+
+
+
+
+}
